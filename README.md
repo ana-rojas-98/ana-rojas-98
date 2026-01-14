@@ -26,7 +26,7 @@ Software Engineer focused on building reliable, user-friendly products. I enjoy 
 
 ## Case Study (Coming Soon)
 
-- **Real-time drone video streaming over mobile networks** — Hardware + software project where we built a working drone and achieved low-latency video streaming over mobile networks. Includes architecture overview, reliability challenges, and practical lessons learned.  
+- **Real-time drone video streaming over mobile networks**  — Drone prototype with real-time video streaming over cellular networks (hardware + software integration).  
   **Demo videos:**  
   - https://youtu.be/m3JccglCrEE  
   - https://www.youtube.com/watch?v=TXkGVab3koM  
