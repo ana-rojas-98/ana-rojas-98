@@ -4,7 +4,10 @@ Software Engineer focused on building reliable, user-friendly products. I enjoy 
 
 - **Location:** New York City  
 - **Tech:** Python, .NET, REST APIs, SQL, Git  
-- **Currently:** Master’s degree in Computer Engineering (thesis work in Quantum Computing) https://sers.ccny.cuny.edu/members/
+- **Currently:** M.S. in Computer Engineering — thesis research in Quantum Computing (focus: circuit optimization and mapping).  
+  **Lab:** https://sers.ccny.cuny.edu/members/  
+  **Teaching (Adjunct Lecturer):** *[(add link)](https://www.ccny.cuny.edu/profiles/ana-rojas-duque?srsltid=AfmBOoqqtvilwR9cp4rrE3hUojhNzwZRn9gE0O-PeSUE5ENJSMv65yLv)*
+
 
 ## Featured Projects
 
@@ -24,10 +27,11 @@ Software Engineer focused on building reliable, user-friendly products. I enjoy 
 
 ## Case Study (Coming Soon)
 
-- **Real-time drone video streaming over mobile networks** — Architecture, challenges, and lessons learned from a hardware project where my team built a functional drone and streamed live video over cellular networks.  
-  *https://youtu.be/m3JccglCrEE*
-  *https://www.youtube.com/watch?v=TXkGVab3koM*
-  *https://youtu.be/kYH4kuQ5WpA*
+- **Real-time drone video streaming over mobile networks** — Hardware + software project where we built a working drone and achieved low-latency video streaming over mobile networks. Includes architecture overview, reliability challenges, and practical lessons learned.  
+  **Demo videos:**  
+  - https://youtu.be/m3JccglCrEE  
+  - https://www.youtube.com/watch?v=TXkGVab3koM  
+  - https://youtu.be/kYH4kuQ5WpA
 
 ## Contact
 
