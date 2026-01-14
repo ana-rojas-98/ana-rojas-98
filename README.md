@@ -5,8 +5,7 @@ Software Engineer focused on building reliable, user-friendly products. I enjoy 
 - **Location:** New York City  
 - **Tech:** Python, .NET, REST APIs, SQL, Git  
 - **Currently:** M.S. in Computer Engineering — thesis research in Quantum Computing (focus: circuit optimization and mapping).  
-  **Lab:** https://sers.ccny.cuny.edu/members/  
-  **Teaching (Adjunct Lecturer):** *[(add link)](https://www.ccny.cuny.edu/profiles/ana-rojas-duque?srsltid=AfmBOoqqtvilwR9cp4rrE3hUojhNzwZRn9gE0O-PeSUE5ENJSMv65yLv)*
+  **CCNY links:** Lab profile: https://sers.ccny.cuny.edu/members/ · Faculty profile: https://www.ccny.cuny.edu/profiles/ana-rojas-duque
 
 
 ## Featured Projects
