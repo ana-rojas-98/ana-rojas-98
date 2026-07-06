@@ -1,7 +1,6 @@
 # Hi, I'm Ana Rojas 👋
 
 Software Engineer focused on building reliable, user-friendly products. I enjoy full-stack development, backend APIs, and building systems that are clean, tested, and easy to maintain.
-
 - **Location:** New York City  
 - **Tech:** Python, .NET, REST APIs, SQL, Git  
 - **Currently:** M.S. in Computer Engineering — thesis research in Quantum Computing (focus: circuit optimization and mapping).  
